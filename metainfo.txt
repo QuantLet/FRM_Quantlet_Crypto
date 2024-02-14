@@ -1,0 +1,7 @@
+
+Name of Quantlet: FRM_Quantlet_Crypto
+Published in: 'https://ida.ase.ro/financial-risk-meter/'
+Description: 'Use FRM in Crypto and detect its prediction ability for future volatility'
+Keywords: 'returns, linear, quantile, LASSO, L1-norm penalty, Crypto, Financial Risk Meter'
+Author: 'Ruting Rainy WANG' 
+Submitted:  '14.02.2024'
